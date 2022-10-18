@@ -1,3 +1,3 @@
 # Animate-Buttons
 
-Live Demo: https://animate-buttons.web.app/
+Live: https://animate-buttons.web.app/
